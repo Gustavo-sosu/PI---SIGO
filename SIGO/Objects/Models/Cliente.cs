@@ -23,7 +23,7 @@ namespace SIGO.Objects.Models
         [Column("data")]
         public DateOnly Data { get; set; }
 
-        [Column("Situacao")]
+        [Column("situacao")]
         public Situacao Situacao { get; set; }
 
         public ICollection<Telefone> Telefones { get; set; } = new List<Telefone>();

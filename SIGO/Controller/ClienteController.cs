@@ -26,11 +26,11 @@ namespace SIGO.Controller
         [HttpGet]
         public async Task<IActionResult> GetAll()
         {
-            var alunosDTO = await _clienteService.GetAll();
+            var clienteDto = await _clienteService.GetAll();
 
             _response.Code = ResponseEnum.SUCCESS;
-            _response.Data = alunosDTO;
-            _response.Message = "Alunos listados com sucesso";
+            _response.Data = clienteDto;
+            _response.Message = "Cliente listados com sucesso";
 
             return Ok(_response);
         }
@@ -38,20 +38,20 @@ namespace SIGO.Controller
         [HttpGet("{id}")]
         public async Task<IActionResult> GetById(int id)
         {
-            var alunoDTO = await _clienteService.GetById(id);
+            var clienteDTO = await _clienteService.GetById(id);
 
-            if (alunoDTO is null)
+            if (clienteDTO is null)
             {
                 _response.Code = ResponseEnum.NOT_FOUND;
                 _response.Data = null;
-                _response.Message = "Aluno não encontrado";
+                _response.Message = "Cliente não encontrado";
 
                 return NotFound(_response);
             }
 
             _response.Code = ResponseEnum.SUCCESS;
-            _response.Data = alunoDTO;
-            _response.Message = "Aluno listado com sucesso";
+            _response.Data = clienteDTO;
+            _response.Message = "Cliente listado com sucesso";
 
             return Ok(_response);
         }
