@@ -6,7 +6,6 @@ C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\bin\Debug\net8.0\SIGO.deps.j
 C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\bin\Debug\net8.0\SIGO.runtimeconfig.json
 C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\bin\Debug\net8.0\SIGO.dll
 C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\bin\Debug\net8.0\SIGO.pdb
-C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\bin\Debug\net8.0\Aspire.Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\bin\Debug\net8.0\Humanizer.dll
 C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
@@ -24,15 +23,9 @@ C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\bin\Debug\net8.0\Microsoft.E
 C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
 C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
 C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
 C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
-C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
-C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
-C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
-C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
 C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
 C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
@@ -44,13 +37,7 @@ C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\bin\Debug\net8.0\Microsoft.I
 C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\bin\Debug\net8.0\Mono.TextTemplating.dll
 C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\bin\Debug\net8.0\Npgsql.dll
-C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\bin\Debug\net8.0\Npgsql.DependencyInjection.dll
 C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
-C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\bin\Debug\net8.0\Npgsql.OpenTelemetry.dll
-C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\bin\Debug\net8.0\OpenTelemetry.dll
-C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\bin\Debug\net8.0\OpenTelemetry.Api.dll
-C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\bin\Debug\net8.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
-C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\bin\Debug\net8.0\OpenTelemetry.Extensions.Hosting.dll
 C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -153,3 +140,4 @@ C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\obj\Debug\net8.0\refint\SIGO
 C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\obj\Debug\net8.0\SIGO.pdb
 C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\obj\Debug\net8.0\SIGO.genruntimeconfig.cache
 C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\obj\Debug\net8.0\ref\SIGO.dll
+C:\Users\ekome\OneDrive\Área de Trabalho\SIGO\SIGO\obj\Debug\net8.0\SIGO.sourcelink.json

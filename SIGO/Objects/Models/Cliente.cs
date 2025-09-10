@@ -1,10 +1,11 @@
 ﻿using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using SIGO.Objects.Enums;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace SIGO.Objects.Models
 {
-    [Table("professor")]
+    [Table("cliente")]
     public class Cliente
     {
         [Column("id")]
