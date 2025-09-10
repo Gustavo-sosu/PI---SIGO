@@ -4,6 +4,7 @@
     {
         Task<IEnumerable<T>> Get();
         Task<T> GetById(int id);
+        Task GetByName(string nome);
         Task Add(T entity);
         Task Update(T entity);
         Task Remove(T entity);

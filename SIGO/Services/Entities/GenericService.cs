@@ -1,5 +1,7 @@
 ﻿using AutoMapper;
+using Microsoft.EntityFrameworkCore;
 using SIGO.Data.Interfaces;
+using SIGO.Objects.Models;
 using SIGO.Services.Interfaces;
 
 namespace SIGO.Services.Entities

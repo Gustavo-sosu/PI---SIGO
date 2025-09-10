@@ -1,4 +1,5 @@
-﻿using SIGO.Data.Interfaces;
+﻿using Microsoft.EntityFrameworkCore;
+using SIGO.Data.Interfaces;
 using SIGO.Objects.Models;
 using System.Security.Cryptography.X509Certificates;
 
@@ -12,5 +13,12 @@ namespace SIGO.Data.Repositories
         {
           _context = context;  
         }
+        public async Task<IEnumerable<Cliente>> GetByName(string nome)
+        {
+            return await _context.Clientes
+                .Where(c => c.Nome.Contains(nome))
+                .ToListAsync();
+        }
+
     }
 }

@@ -7,5 +7,6 @@ namespace SIGO.Services.Interfaces
     {
         Task Update(ClienteJ entityJ, int id);
         Task Update(ClienteF entityF, int id);
+        Task<IEnumerable<ClienteDTO>> GetByName(string nome);
     }
 }

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ekome\\OneDrive\\Área de Trabalho\\SIGO\\SIGO\\SIGO.csproj": {}
+    "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\SIGO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ekome\\OneDrive\\Área de Trabalho\\SIGO\\SIGO\\SIGO.csproj": {
+    "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\SIGO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ekome\\OneDrive\\Área de Trabalho\\SIGO\\SIGO\\SIGO.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\SIGO.csproj",
         "projectName": "SIGO",
-        "projectPath": "C:\\Users\\ekome\\OneDrive\\Área de Trabalho\\SIGO\\SIGO\\SIGO.csproj",
-        "packagesPath": "C:\\Users\\ekome\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ekome\\OneDrive\\Área de Trabalho\\SIGO\\SIGO\\obj\\",
+        "projectPath": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\SIGO.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ekome\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -99,7 +98,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

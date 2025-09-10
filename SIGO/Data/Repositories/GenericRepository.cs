@@ -62,4 +62,10 @@ namespace SIGO.Data.Repositories
         {
             return await _context.SaveChangesAsync() > 0;
         }
-    }}
+
+        public Task GetByName(string nome)
+        {
+            throw new NotImplementedException();
+        }
+    }
+}
