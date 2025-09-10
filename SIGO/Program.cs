@@ -1,5 +1,10 @@
 using Microsoft.EntityFrameworkCore;
 using SIGO.Data;
+using SIGO.Data.Interfaces;
+using SIGO.Data.Repositories;
+using SIGO.Objects.Models;
+using SIGO.Services.Entities;
+using SIGO.Services.Interfaces;
 using System;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -15,6 +20,8 @@ builder.Services.AddDbContext<AppDbContext>(opt =>
 {
     opt.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
+builder.Services.AddScoped<IClienteRepository, ClienteRepository>();
+builder.Services.AddScoped<IClienteService, ClienteService>();
 
 var app = builder.Build();
 

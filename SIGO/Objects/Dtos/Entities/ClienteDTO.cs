@@ -16,5 +16,9 @@ namespace SIGO.Objects.Dtos.Entities
         public DateOnly Data { get; set; }
         public int Situacao { get; set; }
 
+        public List<EnderecoDTO> Enderecos { get; set; } = new();
+        public List<TelefoneDTO> Telefones { get; set; } = new();
+
+
     }
 }
