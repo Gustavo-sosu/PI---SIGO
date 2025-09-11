@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tlk1GHL0Db8=",
+  "dgSpecHash": "HOu8CuNA2Io=",
   "success": true,
-  "projectFilePath": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\SIGO.csproj",
+  "projectFilePath": "C:\\Users\\USUARIO\\Source\\Repos\\PI---SIGO\\SIGO\\SIGO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USUARIO\\.nuget\\packages\\automapper\\15.0.1\\automapper.15.0.1.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

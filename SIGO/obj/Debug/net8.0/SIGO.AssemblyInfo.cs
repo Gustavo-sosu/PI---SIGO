@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SIGO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+775e0681c495c078974843ca17633809d1f17c0e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a15b5bb0f64b4c464e3cc57eac22dcf9fab5295")]
 [assembly: System.Reflection.AssemblyProductAttribute("SIGO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SIGO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
