@@ -24,7 +24,6 @@ namespace SIGO.Controller
         }
 
         [HttpGet]
-        [HttpGet]
         public async Task<IActionResult> GetAll()
         {
             var clienteDto = await _clienteService.GetAll();
@@ -41,7 +40,7 @@ namespace SIGO.Controller
         {
             var clienteDto = await _clienteService.GetByName(nome);
 
-            if (clienteDto is null)
+            if (clienteDto is null || !clienteDto.Any())
             {
                 _response.Code = ResponseEnum.NOT_FOUND;
                 _response.Data = null;

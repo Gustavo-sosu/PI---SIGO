@@ -7,6 +7,22 @@
       "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\controller\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\gustavo-sosu\\pi---sigo\\sigo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\gustavo-sosu\\pi---sigo\\sigo\\data\\interfaces\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\data\\interfaces\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\gustavo-sosu\\pi---sigo\\sigo\\data\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\data\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\gustavo-sosu\\pi---sigo\\sigo\\data\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\data\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\gustavo-sosu\\pi---sigo\\sigo\\services\\entities\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\services\\entities\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,18 +43,6 @@
       "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\services\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\gustavo-sosu\\pi---sigo\\sigo\\data\\interfaces\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\data\\interfaces\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\gustavo-sosu\\pi---sigo\\sigo\\data\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\data\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\gustavo-sosu\\pi---sigo\\sigo\\data\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\data\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\gustavo-sosu\\pi---sigo\\sigo\\data\\builders\\telefonebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\data\\builders\\telefonebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -57,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\gustavo-sosu\\pi---sigo\\sigo\\data\\builders\\clientebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\data\\builders\\clientebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\gustavo-sosu\\pi---sigo\\sigo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\gustavo-sosu\\pi---sigo\\sigo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -142,7 +142,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -157,60 +157,29 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ClienteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Data\\Repositories\\ClienteRepository.cs",
-              "RelativeDocumentMoniker": "SIGO\\Data\\Repositories\\ClienteRepository.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Data\\Repositories\\ClienteRepository.cs",
-              "RelativeToolTip": "SIGO\\Data\\Repositories\\ClienteRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T00:21:23.323Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IClienteService.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Services\\Interfaces\\IClienteService.cs",
-              "RelativeDocumentMoniker": "SIGO\\Services\\Interfaces\\IClienteService.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Services\\Interfaces\\IClienteService.cs",
-              "RelativeToolTip": "SIGO\\Services\\Interfaces\\IClienteService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T00:25:04.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "IClienteRepository.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Data\\Interfaces\\IClienteRepository.cs",
               "RelativeDocumentMoniker": "SIGO\\Data\\Interfaces\\IClienteRepository.cs",
               "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Data\\Interfaces\\IClienteRepository.cs",
               "RelativeToolTip": "SIGO\\Data\\Interfaces\\IClienteRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-10T00:10:38.878Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClienteService.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Services\\Entities\\ClienteService.cs",
-              "RelativeDocumentMoniker": "SIGO\\Services\\Entities\\ClienteService.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Services\\Entities\\ClienteService.cs",
-              "RelativeToolTip": "SIGO\\Services\\Entities\\ClienteService.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwCMAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T00:34:26.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "IGenericService.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Services\\Interfaces\\IGenericService.cs",
               "RelativeDocumentMoniker": "SIGO\\Services\\Interfaces\\IGenericService.cs",
@@ -218,12 +187,11 @@
               "RelativeToolTip": "SIGO\\Services\\Interfaces\\IGenericService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T00:25:23.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-10T00:25:23.474Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "GenericService.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Services\\Entities\\GenericService.cs",
               "RelativeDocumentMoniker": "SIGO\\Services\\Entities\\GenericService.cs",
@@ -231,8 +199,7 @@
               "RelativeToolTip": "SIGO\\Services\\Entities\\GenericService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T00:33:40.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-10T00:33:40.893Z"
             },
             {
               "$type": "Document",
@@ -242,44 +209,89 @@
               "RelativeDocumentMoniker": "SIGO\\Controller\\ClienteController.cs",
               "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Controller\\ClienteController.cs",
               "RelativeToolTip": "SIGO\\Controller\\ClienteController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAkwCYAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswCoAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-10T00:48:00.637Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Data\\Interfaces\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "SIGO\\Data\\Interfaces\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Data\\Interfaces\\IGenericRepository.cs",
-              "RelativeToolTip": "SIGO\\Data\\Interfaces\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T00:09:49.582Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Data\\Repositories\\GenericRepository.cs",
               "RelativeDocumentMoniker": "SIGO\\Data\\Repositories\\GenericRepository.cs",
               "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Data\\Repositories\\GenericRepository.cs",
               "RelativeToolTip": "SIGO\\Data\\Repositories\\GenericRepository.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAowBMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-10T00:15:01.085Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Data\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "SIGO\\Data\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Data\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "SIGO\\Data\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T00:09:49.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\appsettings.json",
+              "RelativeDocumentMoniker": "SIGO\\appsettings.json",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\appsettings.json",
+              "RelativeToolTip": "SIGO\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-09T22:50:29.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Services\\Entities\\ClienteService.cs",
+              "RelativeDocumentMoniker": "SIGO\\Services\\Entities\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Services\\Entities\\ClienteService.cs",
+              "RelativeToolTip": "SIGO\\Services\\Entities\\ClienteService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T00:34:26.612Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "IClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Services\\Interfaces\\IClienteService.cs",
+              "RelativeDocumentMoniker": "SIGO\\Services\\Interfaces\\IClienteService.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Services\\Interfaces\\IClienteService.cs",
+              "RelativeToolTip": "SIGO\\Services\\Interfaces\\IClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T00:25:04.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Data\\Repositories\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "SIGO\\Data\\Repositories\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Data\\Repositories\\ClienteRepository.cs",
+              "RelativeToolTip": "SIGO\\Data\\Repositories\\ClienteRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T00:21:23.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "TelefoneBuilder.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Data\\Builders\\TelefoneBuilder.cs",
               "RelativeDocumentMoniker": "SIGO\\Data\\Builders\\TelefoneBuilder.cs",
@@ -287,12 +299,11 @@
               "RelativeToolTip": "SIGO\\Data\\Builders\\TelefoneBuilder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T16:22:41.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T16:22:41.696Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "EnderecoBuilder.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Data\\Builders\\EnderecoBuilder.cs",
               "RelativeDocumentMoniker": "SIGO\\Data\\Builders\\EnderecoBuilder.cs",
@@ -300,12 +311,11 @@
               "RelativeToolTip": "SIGO\\Data\\Builders\\EnderecoBuilder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T16:22:29.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T16:22:29.449Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ClienteJBuilder.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Data\\Builders\\ClienteJBuilder.cs",
               "RelativeDocumentMoniker": "SIGO\\Data\\Builders\\ClienteJBuilder.cs",
@@ -313,12 +323,11 @@
               "RelativeToolTip": "SIGO\\Data\\Builders\\ClienteJBuilder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T16:22:19.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T16:22:19.331Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ClienteFBuilder.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Data\\Builders\\ClienteFBuilder.cs",
               "RelativeDocumentMoniker": "SIGO\\Data\\Builders\\ClienteFBuilder.cs",
@@ -326,12 +335,11 @@
               "RelativeToolTip": "SIGO\\Data\\Builders\\ClienteFBuilder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T16:22:04.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T16:22:04.811Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ClienteBuilder.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Data\\Builders\\ClienteBuilder.cs",
               "RelativeDocumentMoniker": "SIGO\\Data\\Builders\\ClienteBuilder.cs",
@@ -339,21 +347,7 @@
               "RelativeToolTip": "SIGO\\Data\\Builders\\ClienteBuilder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T16:21:27.29Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\appsettings.json",
-              "RelativeDocumentMoniker": "SIGO\\appsettings.json",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\appsettings.json",
-              "RelativeToolTip": "SIGO\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-09T22:50:29.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T16:21:27.29Z"
             },
             {
               "$type": "Document",
