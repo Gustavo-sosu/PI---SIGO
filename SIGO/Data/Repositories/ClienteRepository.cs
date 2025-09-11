@@ -13,11 +13,27 @@ namespace SIGO.Data.Repositories
         {
           _context = context;  
         }
+        public override async Task<IEnumerable<Cliente>> Get()
+        {
+            return await _context.Clientes
+                .Include(c => c.Enderecos)
+                .Include(c => c.Telefones)
+                .ToListAsync();
+        }
         public async Task<IEnumerable<Cliente>> GetByName(string nome)
         {
             return await _context.Clientes
+                .Include(c => c.Enderecos)
+                .Include(c => c.Telefones)
                 .Where(c => c.Nome.Contains(nome))
                 .ToListAsync();
+        }
+        public async Task<Cliente?> GetByIdWithDetails(int id)
+        {
+            return await _context.Clientes
+                .Include(c => c.Enderecos)
+                .Include(c => c.Telefones)
+                .FirstOrDefaultAsync(c => c.Id == id);
         }
 
     }

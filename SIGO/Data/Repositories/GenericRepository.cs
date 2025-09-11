@@ -14,7 +14,7 @@ namespace SIGO.Data.Repositories
             _dbSet = _context.Set<T>();
         }
 
-        public async Task<IEnumerable<T>> Get()
+        public virtual async Task<IEnumerable<T>> Get()
         {
             return await _dbSet.ToListAsync();
         }
@@ -61,11 +61,6 @@ namespace SIGO.Data.Repositories
         public async Task<bool> SaveChanges()
         {
             return await _context.SaveChangesAsync() > 0;
-        }
-
-        public Task GetByName(string nome)
-        {
-            throw new NotImplementedException();
         }
     }
 }

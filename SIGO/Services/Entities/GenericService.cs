@@ -17,7 +17,7 @@ namespace SIGO.Services.Entities
             _mapper = mapper;
         }
 
-        public async Task<IEnumerable<TDto>> GetAll()
+        public virtual async Task<IEnumerable<TDto>> GetAll()
         {
             var entities = await _repository.Get();
             return _mapper.Map<IEnumerable<TDto>>(entities);

@@ -24,13 +24,14 @@ namespace SIGO.Controller
         }
 
         [HttpGet]
+        [HttpGet]
         public async Task<IActionResult> GetAll()
         {
             var clienteDto = await _clienteService.GetAll();
 
             _response.Code = ResponseEnum.SUCCESS;
             _response.Data = clienteDto;
-            _response.Message = "Cliente listados com sucesso";
+            _response.Message = "Clientes listados com sucesso";
 
             return Ok(_response);
         }
@@ -55,6 +56,27 @@ namespace SIGO.Controller
 
             return Ok(_response);
         }
+
+        [HttpGet("{id}")]
+        public async Task<IActionResult> GetById(int id)
+        {
+            var clienteDto = await _clienteService.GetByIdWithDetails(id);
+
+            if (clienteDto is null)
+            {
+                _response.Code = ResponseEnum.NOT_FOUND;
+                _response.Data = null;
+                _response.Message = "Cliente não encontrado";
+                return NotFound(_response);
+            }
+
+            _response.Code = ResponseEnum.SUCCESS;
+            _response.Data = clienteDto;
+            _response.Message = "Cliente encontrado com sucesso";
+
+            return Ok(_response);
+        }
+
 
         [HttpPost]
         public async Task<IActionResult> Post(ClienteDTO clienteDTO)
