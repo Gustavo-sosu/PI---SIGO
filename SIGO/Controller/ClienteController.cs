@@ -157,8 +157,36 @@ namespace SIGO.Controller
         [HttpDelete("{id}")]
         public async Task<IActionResult> Delete(int id)
         {
-            //Modifique aqui Cristiano e remova o return
-            return NoContent();
+            try
+            {
+                var clienteDTO = await _clienteService.GetById(id);
+
+                if (clienteDTO is null)
+                {
+                    _response.Code = ResponseEnum.NOT_FOUND;
+                    _response.Data = null;
+                    _response.Message = "Cliente não encontrado";
+                    return NotFound(_response);
+                }
+
+                await _clienteService.Remove(id);
+
+                _response.Code = ResponseEnum.SUCCESS;
+                _response.Data = null;
+                _response.Message = "Cliente deletado com sucesso";
+                return Ok(_response);
+            }
+            catch (Exception ex)
+            {
+                _response.Code = ResponseEnum.ERROR;
+                _response.Message = "Ocorreu um erro ao deletar o cliente";
+                _response.Data = new
+                {
+                    ErrorMessage = ex.Message,
+                    StackTrace = ex.StackTrace ?? "No stack trace disponível"
+                };
+                return StatusCode(StatusCodes.Status500InternalServerError, _response);
+            }
         }
     }
 }
