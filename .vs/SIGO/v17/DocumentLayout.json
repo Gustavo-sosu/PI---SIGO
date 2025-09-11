@@ -63,10 +63,6 @@
       "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\data\\builders\\clientebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\gustavo-sosu\\pi---sigo\\sigo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\gustavo-sosu\\pi---sigo\\sigo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -142,7 +138,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -155,27 +151,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IClienteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Data\\Interfaces\\IClienteRepository.cs",
-              "RelativeDocumentMoniker": "SIGO\\Data\\Interfaces\\IClienteRepository.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Data\\Interfaces\\IClienteRepository.cs",
-              "RelativeToolTip": "SIGO\\Data\\Interfaces\\IClienteRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T00:10:38.878Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -224,8 +199,7 @@
               "RelativeToolTip": "SIGO\\Data\\Repositories\\GenericRepository.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAowBMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T00:15:01.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-10T00:15:01.085Z"
             },
             {
               "$type": "Document",
@@ -237,8 +211,7 @@
               "RelativeToolTip": "SIGO\\Data\\Interfaces\\IGenericRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T00:09:49.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-10T00:09:49.582Z"
             },
             {
               "$type": "Document",
@@ -250,8 +223,19 @@
               "RelativeToolTip": "SIGO\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-09T22:50:29.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T22:50:29.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Data\\Interfaces\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "SIGO\\Data\\Interfaces\\IClienteRepository.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Data\\Interfaces\\IClienteRepository.cs",
+              "RelativeToolTip": "SIGO\\Data\\Interfaces\\IClienteRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T00:10:38.878Z"
             },
             {
               "$type": "Document",
@@ -352,18 +336,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Program.cs",
-              "RelativeDocumentMoniker": "SIGO\\Program.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Program.cs",
-              "RelativeToolTip": "SIGO\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAADwvx0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T16:18:41.079Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "SIGO\\Data\\AppDbContext.cs",
@@ -375,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "Response.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Objects\\Contracts\\Response.cs",
               "RelativeDocumentMoniker": "SIGO\\Objects\\Contracts\\Response.cs",
@@ -387,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "ClienteDTO.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Objects\\Dtos\\Entities\\ClienteDTO.cs",
               "RelativeDocumentMoniker": "SIGO\\Objects\\Dtos\\Entities\\ClienteDTO.cs",
@@ -399,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "20250910015727_Arrumando_a_nomenclatura_da_model_cliente_atributo_Situacao_para_situacao.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Migrations\\20250910015727_Arrumando_a_nomenclatura_da_model_cliente_atributo_Situacao_para_situacao.cs",
               "RelativeDocumentMoniker": "SIGO\\Migrations\\20250910015727_Arrumando_a_nomenclatura_da_model_cliente_atributo_Situacao_para_situacao.cs",
@@ -411,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Objects\\Dtos\\Mappings\\MappingProfile.cs",
               "RelativeDocumentMoniker": "SIGO\\Objects\\Dtos\\Mappings\\MappingProfile.cs",
@@ -423,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Objects\\Models\\Cliente.cs",
               "RelativeDocumentMoniker": "SIGO\\Objects\\Models\\Cliente.cs",
@@ -435,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "SIGO.http",
               "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\SIGO.http",
               "RelativeDocumentMoniker": "SIGO\\SIGO.http",
@@ -447,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "ClienteFDTO.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Objects\\Dtos\\Entities\\ClienteFDTO.cs",
               "RelativeDocumentMoniker": "SIGO\\Objects\\Dtos\\Entities\\ClienteFDTO.cs",
@@ -459,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 31,
               "Title": "20250909234717_Inicial.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Migrations\\20250909234717_Inicial.cs",
               "RelativeDocumentMoniker": "SIGO\\Migrations\\20250909234717_Inicial.cs",
@@ -471,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "ClienteF.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Objects\\Models\\ClienteF.cs",
               "RelativeDocumentMoniker": "SIGO\\Objects\\Models\\ClienteF.cs",
@@ -483,7 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 24,
               "Title": "ClienteJ.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Objects\\Models\\ClienteJ.cs",
               "RelativeDocumentMoniker": "SIGO\\Objects\\Models\\ClienteJ.cs",
@@ -495,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 27,
               "Title": "Endereco.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Objects\\Models\\Endereco.cs",
               "RelativeDocumentMoniker": "SIGO\\Objects\\Models\\Endereco.cs",
@@ -507,7 +479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 30,
               "Title": "20250909234938_Correcao_do_nome_da_tabela_cliente.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Migrations\\20250909234938_Correcao_do_nome_da_tabela_cliente.cs",
               "RelativeDocumentMoniker": "SIGO\\Migrations\\20250909234938_Correcao_do_nome_da_tabela_cliente.cs",
@@ -519,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "ClienteJDTO.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Objects\\Dtos\\Entities\\ClienteJDTO.cs",
               "RelativeDocumentMoniker": "SIGO\\Objects\\Dtos\\Entities\\ClienteJDTO.cs",
@@ -531,7 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 26,
               "Title": "Telefone.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Objects\\Models\\Telefone.cs",
               "RelativeDocumentMoniker": "SIGO\\Objects\\Models\\Telefone.cs",
@@ -543,7 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 28,
               "Title": "Situacao.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Objects\\Enums\\Situacao.cs",
               "RelativeDocumentMoniker": "SIGO\\Objects\\Enums\\Situacao.cs",
@@ -555,7 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 29,
               "Title": "ResponseEnum.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Gustavo-sosu\\PI---SIGO\\SIGO\\Objects\\Contracts\\ResponseEnum.cs",
               "RelativeDocumentMoniker": "SIGO\\Objects\\Contracts\\ResponseEnum.cs",
@@ -564,6 +536,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-09T16:19:27.317Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             }
           ]
         }
