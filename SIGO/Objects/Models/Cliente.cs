@@ -26,8 +26,6 @@ namespace SIGO.Objects.Models
         [Column("situacao")]
         public Situacao Situacao { get; set; }
 
-        public ICollection<Telefone> Telefones { get; set; } = new List<Telefone>();
-        public ICollection<Endereco> Enderecos { get; set; } = new List<Endereco>();
 
         public Cliente()
         {

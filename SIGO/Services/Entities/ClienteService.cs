@@ -18,6 +18,21 @@ namespace SIGO.Services.Entities
             _mapper = mapper;
         }
 
+        public async Task Create(ClienteF entityF)
+        {
+                await _clienteRepository.Add(entityF);
+        }
+
+        public async Task Create(Cliente cliente)
+        {
+            await _clienteRepository.Add(cliente);
+        }
+
+        public async Task Create(ClienteJ entityJ)
+        {
+                await _clienteRepository.Add(entityJ);
+        }
+
         public async Task<IEnumerable<ClienteDTO>> GetByName(string nome)
         {
             var entities = await _clienteRepository.GetByName(nome);

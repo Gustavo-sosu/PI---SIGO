@@ -31,6 +31,7 @@ namespace SIGO.Services.Entities
 
         public async Task Create(TDto entityDTO)
         {
+
             var entity = _mapper.Map<T>(entityDTO);
             await _repository.Add(entity);
         }
