@@ -9,8 +9,6 @@ namespace SIGO.Data.Builders
         {
             modelBuilder.Entity<Telefone>().HasKey(t => t.Id);
             modelBuilder.Entity<Telefone>().Property(t => t.Numero).IsRequired().HasMaxLength(11);
-
-            modelBuilder.Entity<Cliente>().HasMany(c => c.Telefones).WithOne(t => t.Clientes).HasForeignKey(t => t.ClienteId);
                
             modelBuilder.Entity<Telefone>().HasData(new List<Telefone>
             {

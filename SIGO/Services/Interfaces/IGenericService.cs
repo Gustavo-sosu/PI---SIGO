@@ -1,6 +1,6 @@
 ﻿namespace SIGO.Services.Interfaces
 {
-    public interface IGenericService<T, TDto> where T : class where TDto : class
+    public interface IGenericService<T, TDto> where T : class where TDto : class 
     {
         Task<IEnumerable<TDto>> GetAll();
         Task<TDto> GetById(int id);

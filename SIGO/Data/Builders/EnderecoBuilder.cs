@@ -15,7 +15,6 @@ namespace SIGO.Data.Builders
             modelBuilder.Entity<Endereco>().Property(e => e.Bairro).IsRequired().HasMaxLength(100);
             modelBuilder.Entity<Endereco>().Property(e => e.Estado).IsRequired().HasMaxLength(2);
 
-            modelBuilder.Entity<Cliente>().HasMany(c => c.Enderecos).WithOne(e => e.Clientes).HasForeignKey(e => e.ClienteId).OnDelete(DeleteBehavior.Cascade);
 
 
             modelBuilder.Entity<Endereco>().HasData(new List<Endereco>
