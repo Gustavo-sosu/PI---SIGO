@@ -9,8 +9,6 @@ namespace SIGO.Data
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 
         public DbSet<Cliente> Clientes { get; set; }
-        public DbSet<ClienteF> ClientesF { get; set; }
-        public DbSet<ClienteJ> ClientesJ { get; set; }
         public DbSet<Endereco> Enderecos { get; set; }
         public DbSet<Telefone> Telefones { get; set; }
 
@@ -19,8 +17,6 @@ namespace SIGO.Data
             base.OnModelCreating(modelBuilder);
 
             ClienteBuilder.Build(modelBuilder);
-            ClienteFBuilder.Build(modelBuilder);
-            ClienteJBuilder.Build(modelBuilder);
             EnderecoBuilder.Build(modelBuilder);
             TelefoneBuilder.Build(modelBuilder);
         }
