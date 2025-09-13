@@ -26,18 +26,12 @@ namespace SIGO.Objects.Models
         [Column("estado")]
         public string Estado { get; set; }
 
-        [Column("pais")]
-        public string Pais { get; set; }
-
-        [Column("complemento")]
-        public string Complemento { get; set; }
-
         [Column("clienteid")]
         public int ClienteId { get; set; }
-        public Cliente Cliente { get; set; } = null!;
+        public Cliente Clientes { get; set; } = null!;
 
         public Endereco() { }
-        public Endereco(int id ,int numero, string rua, string cidade, int cep, string bairro, string estado, string pais, string complemento)
+        public Endereco(int id ,int numero, string rua, string cidade, int cep, string bairro, string estado)
         {
             Id = id;
             Numero = numero;
@@ -46,8 +40,6 @@ namespace SIGO.Objects.Models
             Cep = cep;
             Bairro = bairro;
             Estado = estado;
-            Pais = pais;
-            Complemento = complemento;
         }
     }
 }

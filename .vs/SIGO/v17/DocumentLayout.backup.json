@@ -1,171 +1,137 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\",
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.305\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\ekome\\onedrive\\documentos\\pi---sigo\\sigo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\ekome\\onedrive\\documentos\\pi---sigo\\sigo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\ekome\\onedrive\\documentos\\pi---sigo\\sigo\\sigo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\sigo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\ekome\\onedrive\\documentos\\pi---sigo\\sigo\\objects\\dtos\\entities\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\objects\\dtos\\entities\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\ekome\\onedrive\\documentos\\pi---sigo\\sigo\\data\\builders\\telefonebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\data\\builders\\telefonebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\ekome\\onedrive\\documentos\\pi---sigo\\sigo\\controller\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\controller\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\ekome\\onedrive\\documentos\\pi---sigo\\sigo\\services\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\services\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\ekome\\onedrive\\documentos\\pi---sigo\\sigo\\data\\builders\\enderecobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\data\\builders\\enderecobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\ekome\\onedrive\\documentos\\pi---sigo\\sigo\\data\\builders\\clientebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\data\\builders\\clientebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Migrations\\20250913231456_ReestruturacaoDoCliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SIGO\\Migrations\\20250913231456_ReestruturacaoDoCliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\ekome\\onedrive\\documentos\\pi---sigo\\sigo\\objects\\dtos\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\objects\\dtos\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\ekome\\onedrive\\documentos\\pi---sigo\\sigo\\data\\repositories\\telefonerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\data\\repositories\\telefonerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\ekome\\onedrive\\documentos\\pi---sigo\\sigo\\data\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\data\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\ekome\\onedrive\\documentos\\pi---sigo\\sigo\\data\\repositories\\enderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\data\\repositories\\enderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\ekome\\onedrive\\documentos\\pi---sigo\\sigo\\data\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\data\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\ekome\\onedrive\\documentos\\pi---sigo\\sigo\\controller\\telefonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\controller\\telefonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\ekome\\onedrive\\documentos\\pi---sigo\\sigo\\controller\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\controller\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\ekome\\onedrive\\documentos\\pi---sigo\\sigo\\services\\entities\\enderecoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\services\\entities\\enderecoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\ekome\\onedrive\\documentos\\pi---sigo\\sigo\\services\\entities\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\pi---sigo\\sigo\\services\\entities\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\services\\entities\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\ekome\\onedrive\\documentos\\pi---sigo\\sigo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\ekome\\onedrive\\documentos\\pi---sigo\\sigo\\services\\entities\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\services\\entities\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\ekome\\onedrive\\documentos\\pi---sigo\\sigo\\services\\interfaces\\ienderecoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\services\\interfaces\\ienderecoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\ekome\\onedrive\\documentos\\pi---sigo\\sigo\\data\\interfaces\\ienderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\data\\interfaces\\ienderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\ekome\\onedrive\\documentos\\pi---sigo\\sigo\\data\\interfaces\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\data\\interfaces\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\ekome\\onedrive\\documentos\\pi---sigo\\sigo\\sigo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\sigo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\ekome\\onedrive\\documentos\\pi---sigo\\sigo\\objects\\dtos\\entities\\telefonedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\objects\\dtos\\entities\\telefonedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\ekome\\onedrive\\documentos\\pi---sigo\\sigo\\objects\\dtos\\entities\\enderecodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\objects\\dtos\\entities\\enderecodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\ekome\\onedrive\\documentos\\pi---sigo\\sigo\\data\\interfaces\\itelefonerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\data\\interfaces\\itelefonerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\ekome\\onedrive\\documentos\\pi---sigo\\sigo\\services\\interfaces\\itelefoneservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\services\\interfaces\\itelefoneservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\ekome\\onedrive\\documentos\\pi---sigo\\sigo\\services\\entities\\telefoneservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\services\\entities\\telefoneservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\ekome\\onedrive\\documentos\\pi---sigo\\sigo\\data\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\data\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\ekome\\onedrive\\documentos\\pi---sigo\\sigo\\services\\interfaces\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\services\\interfaces\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\ekome\\onedrive\\documentos\\pi---sigo\\sigo\\objects\\enums\\sexo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\objects\\enums\\sexo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\ekome\\onedrive\\documentos\\pi---sigo\\sigo\\objects\\enums\\situacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\objects\\enums\\situacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\ekome\\onedrive\\documentos\\pi---sigo\\sigo\\objects\\enums\\tipocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\objects\\enums\\tipocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\ekome\\onedrive\\documentos\\pi---sigo\\sigo\\objects\\contracts\\responseenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\objects\\contracts\\responseenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\ekome\\onedrive\\documentos\\pi---sigo\\sigo\\objects\\contracts\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\objects\\contracts\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\source\\repos\\PI---SIGO\\SIGO\\Migrations\\20250912035722_testando_para_ver_se_o_post_funcionara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\ekome\\onedrive\\documentos\\pi---sigo\\sigo\\migrations\\20250910015727_arrumando_a_nomenclatura_da_model_cliente_atributo_situacao_para_situacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\pi---sigo\\sigo\\migrations\\20250910015727_arrumando_a_nomenclatura_da_model_cliente_atributo_situacao_para_situacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\migrations\\20250910015727_arrumando_a_nomenclatura_da_model_cliente_atributo_situacao_para_situacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\ekome\\onedrive\\documentos\\pi---sigo\\sigo\\migrations\\20250909234938_correcao_do_nome_da_tabela_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\pi---sigo\\sigo\\objects\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\objects\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\pi---sigo\\sigo\\controller\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\controller\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\pi---sigo\\sigo\\data\\builders\\clientebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\data\\builders\\clientebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\pi---sigo\\sigo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\pi---sigo\\sigo\\data\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\data\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\pi---sigo\\sigo\\data\\interfaces\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\data\\interfaces\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\pi---sigo\\sigo\\data\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\data\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\pi---sigo\\sigo\\data\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\data\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\pi---sigo\\sigo\\services\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\services\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\pi---sigo\\sigo\\objects\\contracts\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\objects\\contracts\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\pi---sigo\\sigo\\objects\\dtos\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\objects\\dtos\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\pi---sigo\\sigo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\pi---sigo\\sigo\\services\\entities\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\services\\entities\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\pi---sigo\\sigo\\services\\interfaces\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\services\\interfaces\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\pi---sigo\\sigo\\objects\\dtos\\entities\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\objects\\dtos\\entities\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\pi---sigo\\sigo\\data\\builders\\clientejbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\data\\builders\\clientejbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\pi---sigo\\sigo\\data\\builders\\enderecobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\data\\builders\\enderecobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\pi---sigo\\sigo\\sigo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\sigo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\pi---sigo\\sigo\\data\\builders\\clientefbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\data\\builders\\clientefbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\pi---sigo\\sigo\\objects\\dtos\\entities\\clientefdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\objects\\dtos\\entities\\clientefdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\pi---sigo\\sigo\\objects\\models\\clientef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\objects\\models\\clientef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\pi---sigo\\sigo\\objects\\models\\clientej.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\objects\\models\\clientej.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\pi---sigo\\sigo\\objects\\dtos\\entities\\clientejdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\objects\\dtos\\entities\\clientejdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\pi---sigo\\sigo\\data\\builders\\telefonebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\data\\builders\\telefonebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\pi---sigo\\sigo\\objects\\models\\telefone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\objects\\models\\telefone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\pi---sigo\\sigo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\pi---sigo\\sigo\\objects\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\objects\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\pi---sigo\\sigo\\objects\\enums\\situacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\objects\\enums\\situacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\pi---sigo\\sigo\\objects\\contracts\\responseenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\objects\\contracts\\responseenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\pi---sigo\\sigo\\migrations\\20250909234938_correcao_do_nome_da_tabela_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\migrations\\20250909234938_correcao_do_nome_da_tabela_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\ekome\\onedrive\\documentos\\pi---sigo\\sigo\\migrations\\20250909234717_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|c:\\users\\usuario\\source\\repos\\pi---sigo\\sigo\\migrations\\20250909234717_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84B4FC43-8E99-488C-AEC8-D2C82C3983B6}|SIGO\\SIGO.csproj|solutionrelative:sigo\\migrations\\20250909234717_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -176,7 +142,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -187,516 +153,16 @@
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Microsoft.NET.Sdk.StaticWebAssets.targets",
-              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.305\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
-              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.305\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
-              "ViewState": "AgIAAMwCAAAAAAAAAAAiwNoCAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-09-13T23:29:01.627Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ClienteBuilder.cs",
-              "DocumentMoniker": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Data\\Builders\\ClienteBuilder.cs",
-              "RelativeDocumentMoniker": "SIGO\\Data\\Builders\\ClienteBuilder.cs",
-              "ToolTip": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Data\\Builders\\ClienteBuilder.cs",
-              "RelativeToolTip": "SIGO\\Data\\Builders\\ClienteBuilder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T16:21:27.29Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ClienteDTO.cs",
-              "DocumentMoniker": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Objects\\Dtos\\Entities\\ClienteDTO.cs",
-              "RelativeDocumentMoniker": "SIGO\\Objects\\Dtos\\Entities\\ClienteDTO.cs",
-              "ToolTip": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Objects\\Dtos\\Entities\\ClienteDTO.cs",
-              "RelativeToolTip": "SIGO\\Objects\\Dtos\\Entities\\ClienteDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T00:30:30.99Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EnderecoBuilder.cs",
-              "DocumentMoniker": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Data\\Builders\\EnderecoBuilder.cs",
-              "RelativeDocumentMoniker": "SIGO\\Data\\Builders\\EnderecoBuilder.cs",
-              "ToolTip": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Data\\Builders\\EnderecoBuilder.cs",
-              "RelativeToolTip": "SIGO\\Data\\Builders\\EnderecoBuilder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAD4vxQAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T16:22:29.449Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ClienteController.cs",
-              "DocumentMoniker": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Controller\\ClienteController.cs",
-              "RelativeDocumentMoniker": "SIGO\\Controller\\ClienteController.cs",
-              "ToolTip": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Controller\\ClienteController.cs",
-              "RelativeToolTip": "SIGO\\Controller\\ClienteController.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAvwG8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T00:48:00.637Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IClienteService.cs",
-              "DocumentMoniker": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Services\\Interfaces\\IClienteService.cs",
-              "RelativeDocumentMoniker": "SIGO\\Services\\Interfaces\\IClienteService.cs",
-              "ToolTip": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Services\\Interfaces\\IClienteService.cs",
-              "RelativeToolTip": "SIGO\\Services\\Interfaces\\IClienteService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T00:25:04.743Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Program.cs",
-              "RelativeDocumentMoniker": "SIGO\\Program.cs",
-              "ToolTip": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Program.cs",
-              "RelativeToolTip": "SIGO\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T16:18:41.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\appsettings.json",
-              "RelativeDocumentMoniker": "SIGO\\appsettings.json",
-              "ToolTip": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\appsettings.json",
-              "RelativeToolTip": "SIGO\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-09T22:50:29.815Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SIGO",
-              "DocumentMoniker": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\SIGO.csproj",
-              "RelativeDocumentMoniker": "SIGO\\SIGO.csproj",
-              "ToolTip": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\SIGO.csproj",
-              "RelativeToolTip": "SIGO\\SIGO.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-13T23:33:59.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "20250913231456_ReestruturacaoDoCliente.cs",
-              "DocumentMoniker": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Migrations\\20250913231456_ReestruturacaoDoCliente.cs",
-              "RelativeDocumentMoniker": "SIGO\\Migrations\\20250913231456_ReestruturacaoDoCliente.cs",
-              "ToolTip": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Migrations\\20250913231456_ReestruturacaoDoCliente.cs",
-              "RelativeToolTip": "SIGO\\Migrations\\20250913231456_ReestruturacaoDoCliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T23:14:56.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TelefoneBuilder.cs",
-              "DocumentMoniker": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Data\\Builders\\TelefoneBuilder.cs",
-              "RelativeDocumentMoniker": "SIGO\\Data\\Builders\\TelefoneBuilder.cs",
-              "ToolTip": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Data\\Builders\\TelefoneBuilder.cs",
-              "RelativeToolTip": "SIGO\\Data\\Builders\\TelefoneBuilder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T16:22:41.696Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ClienteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Data\\Repositories\\ClienteRepository.cs",
-              "RelativeDocumentMoniker": "SIGO\\Data\\Repositories\\ClienteRepository.cs",
-              "ToolTip": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Data\\Repositories\\ClienteRepository.cs",
-              "RelativeToolTip": "SIGO\\Data\\Repositories\\ClienteRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T00:21:23.323Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "TelefoneRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Data\\Repositories\\TelefoneRepository.cs",
-              "RelativeDocumentMoniker": "SIGO\\Data\\Repositories\\TelefoneRepository.cs",
-              "ToolTip": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Data\\Repositories\\TelefoneRepository.cs",
-              "RelativeToolTip": "SIGO\\Data\\Repositories\\TelefoneRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T22:48:37.123Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Data\\Repositories\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "SIGO\\Data\\Repositories\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Data\\Repositories\\GenericRepository.cs",
-              "RelativeToolTip": "SIGO\\Data\\Repositories\\GenericRepository.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAcwBwAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T00:15:01.085Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "EnderecoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Data\\Repositories\\EnderecoRepository.cs",
-              "RelativeDocumentMoniker": "SIGO\\Data\\Repositories\\EnderecoRepository.cs",
-              "ToolTip": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Data\\Repositories\\EnderecoRepository.cs",
-              "RelativeToolTip": "SIGO\\Data\\Repositories\\EnderecoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T23:06:15.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "EnderecoController.cs",
-              "DocumentMoniker": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Controller\\EnderecoController.cs",
-              "RelativeDocumentMoniker": "SIGO\\Controller\\EnderecoController.cs",
-              "ToolTip": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Controller\\EnderecoController.cs",
-              "RelativeToolTip": "SIGO\\Controller\\EnderecoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T23:11:23.331Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "TelefoneController.cs",
-              "DocumentMoniker": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Controller\\TelefoneController.cs",
-              "RelativeDocumentMoniker": "SIGO\\Controller\\TelefoneController.cs",
-              "ToolTip": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Controller\\TelefoneController.cs",
-              "RelativeToolTip": "SIGO\\Controller\\TelefoneController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T23:12:19.1Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Objects\\Dtos\\Mappings\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "SIGO\\Objects\\Dtos\\Mappings\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Objects\\Dtos\\Mappings\\MappingProfile.cs",
-              "RelativeToolTip": "SIGO\\Objects\\Dtos\\Mappings\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T16:16:41.83Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "EnderecoService.cs",
-              "DocumentMoniker": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Services\\Entities\\EnderecoService.cs",
-              "RelativeDocumentMoniker": "SIGO\\Services\\Entities\\EnderecoService.cs",
-              "ToolTip": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Services\\Entities\\EnderecoService.cs",
-              "RelativeToolTip": "SIGO\\Services\\Entities\\EnderecoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T23:07:01.75Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ClienteService.cs",
-              "DocumentMoniker": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Services\\Entities\\ClienteService.cs",
-              "RelativeDocumentMoniker": "SIGO\\Services\\Entities\\ClienteService.cs",
-              "ToolTip": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Services\\Entities\\ClienteService.cs",
-              "RelativeToolTip": "SIGO\\Services\\Entities\\ClienteService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T00:34:26.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "SIGO\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "SIGO\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T22:47:53.584Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "GenericService.cs",
-              "DocumentMoniker": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Services\\Entities\\GenericService.cs",
-              "RelativeDocumentMoniker": "SIGO\\Services\\Entities\\GenericService.cs",
-              "ToolTip": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Services\\Entities\\GenericService.cs",
-              "RelativeToolTip": "SIGO\\Services\\Entities\\GenericService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB8AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T00:33:40.893Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "IEnderecoService.cs",
-              "DocumentMoniker": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Services\\Interfaces\\IEnderecoService.cs",
-              "RelativeDocumentMoniker": "SIGO\\Services\\Interfaces\\IEnderecoService.cs",
-              "ToolTip": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Services\\Interfaces\\IEnderecoService.cs",
-              "RelativeToolTip": "SIGO\\Services\\Interfaces\\IEnderecoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T23:08:34.848Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "IEnderecoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Data\\Interfaces\\IEnderecoRepository.cs",
-              "RelativeDocumentMoniker": "SIGO\\Data\\Interfaces\\IEnderecoRepository.cs",
-              "ToolTip": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Data\\Interfaces\\IEnderecoRepository.cs",
-              "RelativeToolTip": "SIGO\\Data\\Interfaces\\IEnderecoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T23:05:43.887Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "IClienteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Data\\Interfaces\\IClienteRepository.cs",
-              "RelativeDocumentMoniker": "SIGO\\Data\\Interfaces\\IClienteRepository.cs",
-              "ToolTip": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Data\\Interfaces\\IClienteRepository.cs",
-              "RelativeToolTip": "SIGO\\Data\\Interfaces\\IClienteRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T00:10:38.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "EnderecoDTO.cs",
-              "DocumentMoniker": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Objects\\Dtos\\Entities\\EnderecoDTO.cs",
-              "RelativeDocumentMoniker": "SIGO\\Objects\\Dtos\\Entities\\EnderecoDTO.cs",
-              "ToolTip": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Objects\\Dtos\\Entities\\EnderecoDTO.cs",
-              "RelativeToolTip": "SIGO\\Objects\\Dtos\\Entities\\EnderecoDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T05:09:42.348Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "TelefoneDTO.cs",
-              "DocumentMoniker": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Objects\\Dtos\\Entities\\TelefoneDTO.cs",
-              "RelativeDocumentMoniker": "SIGO\\Objects\\Dtos\\Entities\\TelefoneDTO.cs",
-              "ToolTip": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Objects\\Dtos\\Entities\\TelefoneDTO.cs",
-              "RelativeToolTip": "SIGO\\Objects\\Dtos\\Entities\\TelefoneDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T05:08:47.108Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "SIGO.http",
-              "DocumentMoniker": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\SIGO.http",
-              "RelativeDocumentMoniker": "SIGO\\SIGO.http",
-              "ToolTip": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\SIGO.http",
-              "RelativeToolTip": "SIGO\\SIGO.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-09-09T23:58:55.481Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ITelefoneRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Data\\Interfaces\\ITelefoneRepository.cs",
-              "RelativeDocumentMoniker": "SIGO\\Data\\Interfaces\\ITelefoneRepository.cs",
-              "ToolTip": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Data\\Interfaces\\ITelefoneRepository.cs",
-              "RelativeToolTip": "SIGO\\Data\\Interfaces\\ITelefoneRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T22:47:07.924Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "ITelefoneService.cs",
-              "DocumentMoniker": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Services\\Interfaces\\ITelefoneService.cs",
-              "RelativeDocumentMoniker": "SIGO\\Services\\Interfaces\\ITelefoneService.cs",
-              "ToolTip": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Services\\Interfaces\\ITelefoneService.cs",
-              "RelativeToolTip": "SIGO\\Services\\Interfaces\\ITelefoneService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T18:56:32.044Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "TelefoneService.cs",
-              "DocumentMoniker": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Services\\Entities\\TelefoneService.cs",
-              "RelativeDocumentMoniker": "SIGO\\Services\\Entities\\TelefoneService.cs",
-              "ToolTip": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Services\\Entities\\TelefoneService.cs",
-              "RelativeToolTip": "SIGO\\Services\\Entities\\TelefoneService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T22:44:04.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Data\\Interfaces\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "SIGO\\Data\\Interfaces\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Data\\Interfaces\\IGenericRepository.cs",
-              "RelativeToolTip": "SIGO\\Data\\Interfaces\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T00:09:49.582Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "IGenericService.cs",
-              "DocumentMoniker": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Services\\Interfaces\\IGenericService.cs",
-              "RelativeDocumentMoniker": "SIGO\\Services\\Interfaces\\IGenericService.cs",
-              "ToolTip": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Services\\Interfaces\\IGenericService.cs",
-              "RelativeToolTip": "SIGO\\Services\\Interfaces\\IGenericService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T00:25:23.474Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Sexo.cs",
-              "DocumentMoniker": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Objects\\Enums\\Sexo.cs",
-              "RelativeDocumentMoniker": "SIGO\\Objects\\Enums\\Sexo.cs",
-              "ToolTip": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Objects\\Enums\\Sexo.cs",
-              "RelativeToolTip": "SIGO\\Objects\\Enums\\Sexo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T18:36:18.154Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Situacao.cs",
-              "DocumentMoniker": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Objects\\Enums\\Situacao.cs",
-              "RelativeDocumentMoniker": "SIGO\\Objects\\Enums\\Situacao.cs",
-              "ToolTip": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Objects\\Enums\\Situacao.cs",
-              "RelativeToolTip": "SIGO\\Objects\\Enums\\Situacao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T16:48:57.241Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "TipoCliente.cs",
-              "DocumentMoniker": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Objects\\Enums\\TipoCliente.cs",
-              "RelativeDocumentMoniker": "SIGO\\Objects\\Enums\\TipoCliente.cs",
-              "ToolTip": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Objects\\Enums\\TipoCliente.cs",
-              "RelativeToolTip": "SIGO\\Objects\\Enums\\TipoCliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T18:35:27.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "ResponseEnum.cs",
-              "DocumentMoniker": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Objects\\Contracts\\ResponseEnum.cs",
-              "RelativeDocumentMoniker": "SIGO\\Objects\\Contracts\\ResponseEnum.cs",
-              "ToolTip": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Objects\\Contracts\\ResponseEnum.cs",
-              "RelativeToolTip": "SIGO\\Objects\\Contracts\\ResponseEnum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T16:19:27.317Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Response.cs",
-              "DocumentMoniker": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Objects\\Contracts\\Response.cs",
-              "RelativeDocumentMoniker": "SIGO\\Objects\\Contracts\\Response.cs",
-              "ToolTip": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Objects\\Contracts\\Response.cs",
-              "RelativeToolTip": "SIGO\\Objects\\Contracts\\Response.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T16:19:17.19Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "20250912035722_testando_para_ver_se_o_post_funcionara.cs",
-              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\PI---SIGO\\SIGO\\Migrations\\20250912035722_testando_para_ver_se_o_post_funcionara.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Pichau\\source\\repos\\PI---SIGO\\SIGO\\Migrations\\20250912035722_testando_para_ver_se_o_post_funcionara.cs",
-              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\PI---SIGO\\SIGO\\Migrations\\20250912035722_testando_para_ver_se_o_post_funcionara.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\Pichau\\source\\repos\\PI---SIGO\\SIGO\\Migrations\\20250912035722_testando_para_ver_se_o_post_funcionara.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T03:57:22.955Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
               "Title": "20250910015727_Arrumando_a_nomenclatura_da_model_cliente_atributo_Situacao_para_situacao.cs",
-              "DocumentMoniker": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Migrations\\20250910015727_Arrumando_a_nomenclatura_da_model_cliente_atributo_Situacao_para_situacao.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Migrations\\20250910015727_Arrumando_a_nomenclatura_da_model_cliente_atributo_Situacao_para_situacao.cs",
               "RelativeDocumentMoniker": "SIGO\\Migrations\\20250910015727_Arrumando_a_nomenclatura_da_model_cliente_atributo_Situacao_para_situacao.cs",
-              "ToolTip": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Migrations\\20250910015727_Arrumando_a_nomenclatura_da_model_cliente_atributo_Situacao_para_situacao.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Migrations\\20250910015727_Arrumando_a_nomenclatura_da_model_cliente_atributo_Situacao_para_situacao.cs",
               "RelativeToolTip": "SIGO\\Migrations\\20250910015727_Arrumando_a_nomenclatura_da_model_cliente_atributo_Situacao_para_situacao.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -705,29 +171,392 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "20250909234717_Inicial.cs",
-              "DocumentMoniker": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Migrations\\20250909234717_Inicial.cs",
-              "RelativeDocumentMoniker": "SIGO\\Migrations\\20250909234717_Inicial.cs",
-              "ToolTip": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Migrations\\20250909234717_Inicial.cs",
-              "RelativeToolTip": "SIGO\\Migrations\\20250909234717_Inicial.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Data\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "SIGO\\Data\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Data\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "SIGO\\Data\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T23:47:17.543Z",
+              "WhenOpened": "2025-09-10T00:15:01.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClienteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Objects\\Dtos\\Entities\\ClienteDTO.cs",
+              "RelativeDocumentMoniker": "SIGO\\Objects\\Dtos\\Entities\\ClienteDTO.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Objects\\Dtos\\Entities\\ClienteDTO.cs",
+              "RelativeToolTip": "SIGO\\Objects\\Dtos\\Entities\\ClienteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T00:30:30.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Objects\\Contracts\\Response.cs",
+              "RelativeDocumentMoniker": "SIGO\\Objects\\Contracts\\Response.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Objects\\Contracts\\Response.cs",
+              "RelativeToolTip": "SIGO\\Objects\\Contracts\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T16:19:17.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SIGO\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "SIGO\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T22:47:53.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Data\\Interfaces\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "SIGO\\Data\\Interfaces\\IClienteRepository.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Data\\Interfaces\\IClienteRepository.cs",
+              "RelativeToolTip": "SIGO\\Data\\Interfaces\\IClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T00:10:38.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Services\\Entities\\ClienteService.cs",
+              "RelativeDocumentMoniker": "SIGO\\Services\\Entities\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Services\\Entities\\ClienteService.cs",
+              "RelativeToolTip": "SIGO\\Services\\Entities\\ClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T00:34:26.612Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 10,
+              "Title": "IClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Services\\Interfaces\\IClienteService.cs",
+              "RelativeDocumentMoniker": "SIGO\\Services\\Interfaces\\IClienteService.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Services\\Interfaces\\IClienteService.cs",
+              "RelativeToolTip": "SIGO\\Services\\Interfaces\\IClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T00:25:04.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Data\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "SIGO\\Data\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Data\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "SIGO\\Data\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T00:09:49.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Objects\\Dtos\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "SIGO\\Objects\\Dtos\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Objects\\Dtos\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "SIGO\\Objects\\Dtos\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T16:16:41.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Controller\\ClienteController.cs",
+              "RelativeDocumentMoniker": "SIGO\\Controller\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Controller\\ClienteController.cs",
+              "RelativeToolTip": "SIGO\\Controller\\ClienteController.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAmwHAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T00:48:00.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Data\\Builders\\ClienteBuilder.cs",
+              "RelativeDocumentMoniker": "SIGO\\Data\\Builders\\ClienteBuilder.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Data\\Builders\\ClienteBuilder.cs",
+              "RelativeToolTip": "SIGO\\Data\\Builders\\ClienteBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T16:21:27.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Objects\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "SIGO\\Objects\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Objects\\Models\\Cliente.cs",
+              "RelativeToolTip": "SIGO\\Objects\\Models\\Cliente.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T16:29:34.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Data\\Repositories\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "SIGO\\Data\\Repositories\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Data\\Repositories\\ClienteRepository.cs",
+              "RelativeToolTip": "SIGO\\Data\\Repositories\\ClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T00:21:23.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Program.cs",
+              "RelativeDocumentMoniker": "SIGO\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Program.cs",
+              "RelativeToolTip": "SIGO\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvx0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T16:18:41.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IGenericService.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Services\\Interfaces\\IGenericService.cs",
+              "RelativeDocumentMoniker": "SIGO\\Services\\Interfaces\\IGenericService.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Services\\Interfaces\\IGenericService.cs",
+              "RelativeToolTip": "SIGO\\Services\\Interfaces\\IGenericService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T00:25:23.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GenericService.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Services\\Entities\\GenericService.cs",
+              "RelativeDocumentMoniker": "SIGO\\Services\\Entities\\GenericService.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Services\\Entities\\GenericService.cs",
+              "RelativeToolTip": "SIGO\\Services\\Entities\\GenericService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwCUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T00:33:40.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SIGO.http",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\SIGO.http",
+              "RelativeDocumentMoniker": "SIGO\\SIGO.http",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\SIGO.http",
+              "RelativeToolTip": "SIGO\\SIGO.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-09-09T23:58:55.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ClienteFDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Objects\\Dtos\\Entities\\ClienteFDTO.cs",
+              "RelativeDocumentMoniker": "SIGO\\Objects\\Dtos\\Entities\\ClienteFDTO.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Objects\\Dtos\\Entities\\ClienteFDTO.cs",
+              "RelativeToolTip": "SIGO\\Objects\\Dtos\\Entities\\ClienteFDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T23:40:53.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TelefoneBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Data\\Builders\\TelefoneBuilder.cs",
+              "RelativeDocumentMoniker": "SIGO\\Data\\Builders\\TelefoneBuilder.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Data\\Builders\\TelefoneBuilder.cs",
+              "RelativeToolTip": "SIGO\\Data\\Builders\\TelefoneBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T16:22:41.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClienteJBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Data\\Builders\\ClienteJBuilder.cs",
+              "RelativeDocumentMoniker": "SIGO\\Data\\Builders\\ClienteJBuilder.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Data\\Builders\\ClienteJBuilder.cs",
+              "RelativeToolTip": "SIGO\\Data\\Builders\\ClienteJBuilder.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvyAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T16:22:19.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20250909234717_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Migrations\\20250909234717_Inicial.cs",
+              "RelativeDocumentMoniker": "SIGO\\Migrations\\20250909234717_Inicial.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Migrations\\20250909234717_Inicial.cs",
+              "RelativeToolTip": "SIGO\\Migrations\\20250909234717_Inicial.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T23:47:17.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EnderecoBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Data\\Builders\\EnderecoBuilder.cs",
+              "RelativeDocumentMoniker": "SIGO\\Data\\Builders\\EnderecoBuilder.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Data\\Builders\\EnderecoBuilder.cs",
+              "RelativeToolTip": "SIGO\\Data\\Builders\\EnderecoBuilder.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T16:22:29.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ClienteFBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Data\\Builders\\ClienteFBuilder.cs",
+              "RelativeDocumentMoniker": "SIGO\\Data\\Builders\\ClienteFBuilder.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Data\\Builders\\ClienteFBuilder.cs",
+              "RelativeToolTip": "SIGO\\Data\\Builders\\ClienteFBuilder.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T16:22:04.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ClienteF.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Objects\\Models\\ClienteF.cs",
+              "RelativeDocumentMoniker": "SIGO\\Objects\\Models\\ClienteF.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Objects\\Models\\ClienteF.cs",
+              "RelativeToolTip": "SIGO\\Objects\\Models\\ClienteF.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T16:28:26.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ClienteJ.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Objects\\Models\\ClienteJ.cs",
+              "RelativeDocumentMoniker": "SIGO\\Objects\\Models\\ClienteJ.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Objects\\Models\\ClienteJ.cs",
+              "RelativeToolTip": "SIGO\\Objects\\Models\\ClienteJ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T16:28:17.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Objects\\Models\\Endereco.cs",
+              "RelativeDocumentMoniker": "SIGO\\Objects\\Models\\Endereco.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Objects\\Models\\Endereco.cs",
+              "RelativeToolTip": "SIGO\\Objects\\Models\\Endereco.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T16:38:17.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
               "Title": "20250909234938_Correcao_do_nome_da_tabela_cliente.cs",
-              "DocumentMoniker": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Migrations\\20250909234938_Correcao_do_nome_da_tabela_cliente.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Migrations\\20250909234938_Correcao_do_nome_da_tabela_cliente.cs",
               "RelativeDocumentMoniker": "SIGO\\Migrations\\20250909234938_Correcao_do_nome_da_tabela_cliente.cs",
-              "ToolTip": "C:\\Users\\ekome\\OneDrive\\Documentos\\PI---SIGO\\SIGO\\Migrations\\20250909234938_Correcao_do_nome_da_tabela_cliente.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Migrations\\20250909234938_Correcao_do_nome_da_tabela_cliente.cs",
               "RelativeToolTip": "SIGO\\Migrations\\20250909234938_Correcao_do_nome_da_tabela_cliente.cs",
               "ViewState": "AgIAAG8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T23:49:38.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T23:49:38.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ClienteJDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Objects\\Dtos\\Entities\\ClienteJDTO.cs",
+              "RelativeDocumentMoniker": "SIGO\\Objects\\Dtos\\Entities\\ClienteJDTO.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Objects\\Dtos\\Entities\\ClienteJDTO.cs",
+              "RelativeToolTip": "SIGO\\Objects\\Dtos\\Entities\\ClienteJDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T22:35:21.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\appsettings.json",
+              "RelativeDocumentMoniker": "SIGO\\appsettings.json",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\appsettings.json",
+              "RelativeToolTip": "SIGO\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-09T22:50:29.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Telefone.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Objects\\Models\\Telefone.cs",
+              "RelativeDocumentMoniker": "SIGO\\Objects\\Models\\Telefone.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Objects\\Models\\Telefone.cs",
+              "RelativeToolTip": "SIGO\\Objects\\Models\\Telefone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T16:28:40.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Situacao.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Objects\\Enums\\Situacao.cs",
+              "RelativeDocumentMoniker": "SIGO\\Objects\\Enums\\Situacao.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Objects\\Enums\\Situacao.cs",
+              "RelativeToolTip": "SIGO\\Objects\\Enums\\Situacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T16:48:57.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ResponseEnum.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Objects\\Contracts\\ResponseEnum.cs",
+              "RelativeDocumentMoniker": "SIGO\\Objects\\Contracts\\ResponseEnum.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\PI---SIGO\\SIGO\\Objects\\Contracts\\ResponseEnum.cs",
+              "RelativeToolTip": "SIGO\\Objects\\Contracts\\ResponseEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T16:19:27.317Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             }
           ]
         }

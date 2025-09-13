@@ -9,6 +9,8 @@ namespace SIGO.Objects.Dtos.Mappings
         public MappingProfile()
         {
             CreateMap<Cliente, ClienteDTO>().ReverseMap();
+            CreateMap<ClienteF, ClienteFDTO>().ReverseMap();
+            CreateMap<ClienteJ, ClienteJDTO>().ReverseMap();
             CreateMap<Endereco, EnderecoDTO>().ReverseMap();
             CreateMap<Telefone, TelefoneDTO>().ReverseMap();
 

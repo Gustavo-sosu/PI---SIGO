@@ -13,7 +13,6 @@ namespace SIGO.Data.Repositories
         {
           _context = context;  
         }
-
         public override async Task<IEnumerable<Cliente>> Get()
         {
             return await _context.Clientes
@@ -29,7 +28,7 @@ namespace SIGO.Data.Repositories
                 .Where(c => c.Nome.Contains(nome))
                 .ToListAsync();
         }
-        public async Task<Cliente?> GetClienteById(int id)
+        public async Task<Cliente?> GetByIdWithDetails(int id)
         {
             return await _context.Clientes
                 .Include(c => c.Enderecos)

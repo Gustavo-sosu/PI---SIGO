@@ -59,7 +59,7 @@ namespace SIGO.Controller
         [HttpGet("{id}")]
         public async Task<IActionResult> GetById(int id)
         {
-            var clienteDto = await _clienteService.GetClienteById(id);
+            var clienteDto = await _clienteService.GetByIdWithDetails(id);
 
             if (clienteDto is null)
             {
@@ -76,6 +76,84 @@ namespace SIGO.Controller
             return Ok(_response);
         }
 
+
+        [HttpPost]
+        public async Task<IActionResult> Post(ClienteDTO clienteDTO)
+        {
+            //Modifique aqui Cestonaro e remova o return
+            return NoContent();
+        }
+
+        [HttpPut("f/{id}")]
+        public async Task<IActionResult> PutF([FromRoute] int id, [FromBody] ClienteFDTO clienteFDTO)
+        {
+            if (clienteFDTO is null)
+            {
+                _response.Code = ResponseEnum.INVALID;
+                _response.Data = null;
+                _response.Message = "Dados inválidos para Cliente F";
+                return BadRequest(_response);
+            }
+
+            try
+            {
+
+                var entityF = _mapper.Map<ClienteF>(clienteFDTO);
+
+                await _clienteService.Update(entityF, id);
+
+                _response.Code = ResponseEnum.SUCCESS;
+                _response.Data = clienteFDTO;
+                _response.Message = "Cliente F atualizado com sucesso";
+                return Ok(_response);
+            }
+            catch (Exception ex)
+            {
+                _response.Code = ResponseEnum.ERROR;
+                _response.Message = "Ocorreu um erro ao atualizar Cliente F";
+                _response.Data = new
+                {
+                    ErrorMessage = ex.Message,
+                    StackTrace = ex.StackTrace ?? "No stack trace disponível"
+                };
+                return StatusCode(StatusCodes.Status500InternalServerError, _response);
+            }
+        }
+
+        [HttpPut("j/{id}")]
+        public async Task<IActionResult> PutJ([FromRoute] int id, [FromBody] ClienteJDTO clienteJDTO)
+        {
+            if (clienteJDTO is null)
+            {
+                _response.Code = ResponseEnum.INVALID;
+                _response.Data = null;
+                _response.Message = "Dados inválidos para Cliente J";
+                return BadRequest(_response);
+            }
+
+            try
+            {
+                var entityJ = _mapper.Map<ClienteJ>(clienteJDTO);
+
+                await _clienteService.Update(entityJ, id);
+
+                _response.Code = ResponseEnum.SUCCESS;
+                _response.Data = clienteJDTO;
+                _response.Message = "Cliente J atualizado com sucesso";
+                return Ok(_response);
+            }
+            catch (Exception ex)
+            {
+                _response.Code = ResponseEnum.ERROR;
+                _response.Message = "Ocorreu um erro ao atualizar Cliente J";
+                _response.Data = new
+                {
+                    ErrorMessage = ex.Message,
+                    StackTrace = ex.StackTrace ?? "No stack trace disponível"
+                };
+                return StatusCode(StatusCodes.Status500InternalServerError, _response);
+            }
+        }
         [HttpDelete("{id}")]
         public async Task<IActionResult> Delete(int id)
         {

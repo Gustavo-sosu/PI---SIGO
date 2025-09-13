@@ -31,11 +31,6 @@ namespace SIGO.Migrations
 
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("CPF_CNPJ")
-                        .IsRequired()
-                        .HasColumnType("text")
-                        .HasColumnName("cnpj_cpf");
-
                     b.Property<DateOnly>("Data")
                         .HasColumnType("date")
                         .HasColumnName("data");
@@ -52,37 +47,21 @@ namespace SIGO.Migrations
                         .HasColumnType("character varying(100)")
                         .HasColumnName("nome");
 
-                    b.Property<string>("Obs")
-                        .IsRequired()
-                        .HasColumnType("text")
-                        .HasColumnName("obs");
-
                     b.Property<string>("Senha")
                         .IsRequired()
                         .HasMaxLength(100)
                         .HasColumnType("character varying(100)")
                         .HasColumnName("senha");
 
-                    b.Property<int>("Sexo")
-                        .HasColumnType("integer")
-                        .HasColumnName("sexo");
-
                     b.Property<int>("Situacao")
                         .HasColumnType("integer")
                         .HasColumnName("situacao");
 
-                    b.Property<int>("TipoCliente")
-                        .HasColumnType("integer")
-                        .HasColumnName("tipocliente");
-
-                    b.Property<string>("razao")
-                        .IsRequired()
-                        .HasColumnType("text")
-                        .HasColumnName("razao");
-
                     b.HasKey("Id");
 
                     b.ToTable("cliente");
+
+                    b.UseTptMappingStrategy();
                 });
 
             modelBuilder.Entity("SIGO.Objects.Models.Endereco", b =>
@@ -115,12 +94,6 @@ namespace SIGO.Migrations
                         .HasColumnType("integer")
                         .HasColumnName("clienteid");
 
-                    b.Property<string>("Complemento")
-                        .IsRequired()
-                        .HasMaxLength(100)
-                        .HasColumnType("character varying(100)")
-                        .HasColumnName("complemento");
-
                     b.Property<string>("Estado")
                         .IsRequired()
                         .HasMaxLength(2)
@@ -130,12 +103,6 @@ namespace SIGO.Migrations
                     b.Property<int>("Numero")
                         .HasColumnType("integer")
                         .HasColumnName("numero");
-
-                    b.Property<string>("Pais")
-                        .IsRequired()
-                        .HasMaxLength(10)
-                        .HasColumnType("character varying(10)")
-                        .HasColumnName("pais");
 
                     b.Property<string>("Rua")
                         .IsRequired()
@@ -148,6 +115,30 @@ namespace SIGO.Migrations
                     b.HasIndex("ClienteId");
 
                     b.ToTable("endereco");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Bairro = "Centro",
+                            Cep = 1001000,
+                            Cidade = "São Paulo",
+                            ClienteId = 1,
+                            Estado = "SP",
+                            Numero = 123,
+                            Rua = "Rua das Flores"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Bairro = "Copacabana",
+                            Cep = 22041001,
+                            Cidade = "Rio de Janeiro",
+                            ClienteId = 2,
+                            Estado = "RJ",
+                            Numero = 456,
+                            Rua = "Av. Brasil"
+                        });
                 });
 
             modelBuilder.Entity("SIGO.Objects.Models.Telefone", b =>
@@ -163,11 +154,6 @@ namespace SIGO.Migrations
                         .HasColumnType("integer")
                         .HasColumnName("clienteid");
 
-                    b.Property<int>("DDD")
-                        .HasMaxLength(5)
-                        .HasColumnType("integer")
-                        .HasColumnName("ddd");
-
                     b.Property<string>("Numero")
                         .IsRequired()
                         .HasMaxLength(11)
@@ -179,17 +165,107 @@ namespace SIGO.Migrations
                     b.HasIndex("ClienteId");
 
                     b.ToTable("telefone");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            ClienteId = 1,
+                            Numero = "11999999999"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            ClienteId = 2,
+                            Numero = "21988888888"
+                        });
+                });
+
+            modelBuilder.Entity("SIGO.Objects.Models.ClienteF", b =>
+                {
+                    b.HasBaseType("SIGO.Objects.Models.Cliente");
+
+                    b.Property<string>("Cpf")
+                        .IsRequired()
+                        .HasMaxLength(11)
+                        .HasColumnType("character varying(11)")
+                        .HasColumnName("cpf");
+
+                    b.Property<DateOnly>("DataNasc")
+                        .HasColumnType("date")
+                        .HasColumnName("datanasc");
+
+                    b.Property<string>("Obs")
+                        .IsRequired()
+                        .HasMaxLength(500)
+                        .HasColumnType("character varying(500)")
+                        .HasColumnName("obs");
+
+                    b.Property<string>("Sexo")
+                        .IsRequired()
+                        .HasMaxLength(1)
+                        .HasColumnType("character varying(1)")
+                        .HasColumnName("sexo");
+
+                    b.ToTable("clientef", (string)null);
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Data = new DateOnly(2025, 6, 1),
+                            Email = "joao@email.com",
+                            Nome = "João Pereira",
+                            Senha = "123456",
+                            Situacao = 1,
+                            Cpf = "12345678901",
+                            DataNasc = new DateOnly(1990, 5, 12),
+                            Obs = "Cliente antigo",
+                            Sexo = "M"
+                        });
+                });
+
+            modelBuilder.Entity("SIGO.Objects.Models.ClienteJ", b =>
+                {
+                    b.HasBaseType("SIGO.Objects.Models.Cliente");
+
+                    b.Property<string>("Cnpj")
+                        .IsRequired()
+                        .HasMaxLength(14)
+                        .HasColumnType("character varying(14)")
+                        .HasColumnName("cnpj");
+
+                    b.Property<string>("Razao")
+                        .IsRequired()
+                        .HasMaxLength(150)
+                        .HasColumnType("character varying(150)")
+                        .HasColumnName("razao");
+
+                    b.ToTable("clientej", (string)null);
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 2,
+                            Data = new DateOnly(2025, 6, 3),
+                            Email = "contato@empresaabc.com",
+                            Nome = "Empresa ABC",
+                            Senha = "123456",
+                            Situacao = 1,
+                            Cnpj = "12345678000199",
+                            Razao = "Empresa ABC Ltda"
+                        });
                 });
 
             modelBuilder.Entity("SIGO.Objects.Models.Endereco", b =>
                 {
-                    b.HasOne("SIGO.Objects.Models.Cliente", "Cliente")
+                    b.HasOne("SIGO.Objects.Models.Cliente", "Clientes")
                         .WithMany("Enderecos")
                         .HasForeignKey("ClienteId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("Cliente");
+                    b.Navigation("Clientes");
                 });
 
             modelBuilder.Entity("SIGO.Objects.Models.Telefone", b =>
@@ -201,6 +277,24 @@ namespace SIGO.Migrations
                         .IsRequired();
 
                     b.Navigation("Clientes");
+                });
+
+            modelBuilder.Entity("SIGO.Objects.Models.ClienteF", b =>
+                {
+                    b.HasOne("SIGO.Objects.Models.Cliente", null)
+                        .WithOne()
+                        .HasForeignKey("SIGO.Objects.Models.ClienteF", "Id")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("SIGO.Objects.Models.ClienteJ", b =>
+                {
+                    b.HasOne("SIGO.Objects.Models.Cliente", null)
+                        .WithOne()
+                        .HasForeignKey("SIGO.Objects.Models.ClienteJ", "Id")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
                 });
 
             modelBuilder.Entity("SIGO.Objects.Models.Cliente", b =>
